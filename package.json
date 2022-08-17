@@ -1,0 +1,19 @@
+{
+  "name": "permianapi",
+  "version": "1.0.0",
+  "description": "An API that serves inserting data to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usmanfawad/Node-Express-RestAPI.git"
+  },
+  "author": "Usman Fawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usmanfawad/Node-Express-RestAPI/issues"
+  },
+  "homepage": "https://github.com/Usmanfawad/Node-Express-RestAPI#readme"
+}
